@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <title>Reactor Sample</title>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <link rel="stylesheet" href="/resources/bootstrap.min.css">
+    </head>
+    <body>
+        <section class="container">
+            <ul class="list-group">
+                <li th:each="item : ${series}" th:text="${item}" class="list-group-item"></li>
+            </ul>
+        </section>
+    </body>
+</html>
