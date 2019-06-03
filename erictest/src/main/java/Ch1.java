@@ -31,8 +31,14 @@ public class Ch1 {
         System.out.println(7778742049L == fibonacciSeries.get(size-1).longValue());
     }
 
+    public static void a() {
+
+    }
+
     public static void main(String[] args) {
         testSimpleStringFlux();
         testFibonacci();
+        // kkkk
+
     }
 }
