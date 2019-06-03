@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Hands-On-Reactive-Programming-with-Reactor.iml" filepath="$PROJECT_DIR$/.idea/Hands-On-Reactive-Programming-with-Reactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erictest/eric-test.iml" filepath="$PROJECT_DIR$/erictest/eric-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erictest/erictest.iml" filepath="$PROJECT_DIR$/erictest/erictest.iml" />
     </modules>
   </component>
 </project>
